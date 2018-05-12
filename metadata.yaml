@@ -1,0 +1,36 @@
+_repo: Esther_15790
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Racine, Jean
+    alias: Racine, Jean Baptiste
+    birthdate: 1639
+    deathdate: 1699
+    gutenberg_agent_id: '767'
+    url: http://www.gutenberg.org/2009/agents/767
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Racine
+  editor:
+    agent_name: Spiers, I. H. B. (Isidore Henry Bowles)
+    alias: Spiers, Isidore Henry Bowles
+    gutenberg_agent_id: '6292'
+    url: http://www.gutenberg.org/2009/agents/6292
+description: Introduction, notes and appendices in English
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2005-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15790'
+language:
+- fr
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Esther, Queen of Persia -- Drama'
+- !lcc 'PQ'
+title: Esther
+url: http://www.gutenberg.org/ebooks/15790
