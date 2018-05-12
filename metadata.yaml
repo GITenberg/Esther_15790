@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '6292'
     url: http://www.gutenberg.org/2009/agents/6292
 description: Introduction, notes and appendices in English
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15790#Esther
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2005-05-07'
 gutenberg_type: Text
